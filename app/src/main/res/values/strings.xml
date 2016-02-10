@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidNUMBER26</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_toolbar_title">Find a Store</string>
+
+
+    <string name="google_map_v2_api_key">AIzaSyDfrRF14tirrIxC8T1zNLszzeH0UMHvjz0</string>
+    <!-- Error messages-->
+    <string name="str_error_network_connection">Please connect to internet</string>
+    <string name="str_err_loc_not_available">Current location not available, please enable GPS</string>
+    <string name="str_err_get_curr_loc">An error occured while getting current location</string>
+
+</resources>
